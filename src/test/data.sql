@@ -1,0 +1,5 @@
+CREATE TABLE task (
+    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL;
+    description VARCHAR(5000);
+)
